@@ -1,7 +1,5 @@
 %%
-% TRAM LE
 % 
-% HOMEWORK 4: Part 2
 %%
 clear all
 format long
